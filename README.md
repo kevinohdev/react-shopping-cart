@@ -13,8 +13,3 @@ I wanted to build a shopping cart using React hooks to manage the client side da
 
 One of the lessons I learned is that mobile browsers do not have a hover state, and will need a different UI if the desktop browser utilizes hover states. Going forward, building mobile first will eliminate some of these issues.   
 
-
-
-
-
-# react-shopping-cart

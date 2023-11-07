@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "GMT-Master",
+    "price": 190000,
+    "imgUrl": "/imgs/silver.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Black Bay Fifty-Eight",
+    "price": 110000,
+    "imgUrl": "/imgs/black-leather.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Speedmaster Chronograph",
+    "price": 130000,
+    "imgUrl": "/imgs/blue-face.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Daytimer Classic Brown",
+    "price": 120000,
+    "imgUrl": "/imgs/brown-leather.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Prestige Automatic",
+    "price": 200000,
+    "imgUrl": "/imgs/emporo.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Submariner Dual Tone",
+    "price": 100000,
+    "imgUrl": "/imgs/dual-tone.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Primo Pocket Watch",
+    "price": 140000,
+    "imgUrl": "/imgs/pocket.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Seamaster Chronograph",
+    "price": 700000,
+    "imgUrl": "/imgs/silver.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Classic Brown Leather",
+    "price": 140000,
+    "imgUrl": "/imgs/uhrge.jpg"
+  }
+]
